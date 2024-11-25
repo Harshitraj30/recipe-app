@@ -3,8 +3,8 @@
 The Recipe Search App allows users to search for recipes by dish name and provides detailed information, including ingredients and cooking instructions. It is a simple, interactive application built with JavaScript and uses the TheMealDB API for recipe data.
 
 # Features
-Search Recipes: Users can enter the name of a dish and view detailed information.
-Ingredient List: Displays the ingredients with measurements in a structured list.
+Search Recipes: Users can enter the name of a dish and view detailed information.  
+Ingredient List: Displays the ingredients with measurements in a structured list.  
 View Recipe Instructions: Provides step-by-step cooking instructions.
 Interactive UI: Includes a button to toggle the recipe instructions display.
 Real-Time Search: Initiates a search by pressing the Enter key or clicking the search button.
